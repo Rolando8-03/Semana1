@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\bin\Debug\net8.0\baldes_leche.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\bin\Debug\net8.0\baldes_leche.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\bin\Debug\net8.0\baldes_leche.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\bin\Debug\net8.0\baldes_leche.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\bin\Debug\net8.0\baldes_leche.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\refint\baldes_leche.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\baldes_leche.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\baldes_leche\obj\Debug\net8.0\ref\baldes_leche.dll

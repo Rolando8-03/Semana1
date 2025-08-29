@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\bin\Debug\net8.0\distancia_ciclista.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\bin\Debug\net8.0\distancia_ciclista.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\bin\Debug\net8.0\distancia_ciclista.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\bin\Debug\net8.0\distancia_ciclista.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\bin\Debug\net8.0\distancia_ciclista.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\refint\distancia_ciclista.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\distancia_ciclista.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\distancia_ciclista\obj\Debug\net8.0\ref\distancia_ciclista.dll

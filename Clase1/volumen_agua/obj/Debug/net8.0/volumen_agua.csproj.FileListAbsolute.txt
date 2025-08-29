@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\bin\Debug\net8.0\volumen_agua.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\bin\Debug\net8.0\volumen_agua.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\bin\Debug\net8.0\volumen_agua.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\bin\Debug\net8.0\volumen_agua.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\bin\Debug\net8.0\volumen_agua.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\refint\volumen_agua.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\volumen_agua.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\volumen_agua\obj\Debug\net8.0\ref\volumen_agua.dll

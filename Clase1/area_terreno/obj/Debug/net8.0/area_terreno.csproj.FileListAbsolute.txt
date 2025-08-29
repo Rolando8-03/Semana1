@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\bin\Debug\net8.0\area_terreno.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\bin\Debug\net8.0\area_terreno.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\bin\Debug\net8.0\area_terreno.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\bin\Debug\net8.0\area_terreno.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\bin\Debug\net8.0\area_terreno.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\refint\area_terreno.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\area_terreno.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana 1\Sesión 1\area_terreno\obj\Debug\net8.0\ref\area_terreno.dll
