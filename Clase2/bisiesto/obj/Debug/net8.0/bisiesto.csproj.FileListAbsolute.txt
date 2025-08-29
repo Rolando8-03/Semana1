@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\bin\Debug\net8.0\bisiesto.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\bin\Debug\net8.0\bisiesto.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\bin\Debug\net8.0\bisiesto.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\bin\Debug\net8.0\bisiesto.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\bin\Debug\net8.0\bisiesto.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\refint\bisiesto.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\bisiesto.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\bisiesto\obj\Debug\net8.0\ref\bisiesto.dll

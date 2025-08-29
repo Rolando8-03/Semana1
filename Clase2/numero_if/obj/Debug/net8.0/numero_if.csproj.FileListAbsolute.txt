@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\bin\Debug\net8.0\numero_if.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\bin\Debug\net8.0\numero_if.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\bin\Debug\net8.0\numero_if.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\bin\Debug\net8.0\numero_if.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\bin\Debug\net8.0\numero_if.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\refint\numero_if.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\numero_if.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_if\obj\Debug\net8.0\ref\numero_if.dll

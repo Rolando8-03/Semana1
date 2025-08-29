@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\bin\Debug\net8.0\numero_semana.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\bin\Debug\net8.0\numero_semana.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\bin\Debug\net8.0\numero_semana.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\bin\Debug\net8.0\numero_semana.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\bin\Debug\net8.0\numero_semana.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\refint\numero_semana.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\numero_semana.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\numero_semana\obj\Debug\net8.0\ref\numero_semana.dll

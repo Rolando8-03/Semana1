@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\bin\Debug\net8.0\calificacion_switch.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\bin\Debug\net8.0\calificacion_switch.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\bin\Debug\net8.0\calificacion_switch.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\bin\Debug\net8.0\calificacion_switch.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\bin\Debug\net8.0\calificacion_switch.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\refint\calificacion_switch.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\calificacion_switch.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_switch\obj\Debug\net8.0\ref\calificacion_switch.dll

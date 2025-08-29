@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\bin\Debug\net8.0\calificacion_esudiante.exe
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\bin\Debug\net8.0\calificacion_esudiante.deps.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\bin\Debug\net8.0\calificacion_esudiante.runtimeconfig.json
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\bin\Debug\net8.0\calificacion_esudiante.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\bin\Debug\net8.0\calificacion_esudiante.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.AssemblyInfo.cs
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\refint\calificacion_esudiante.dll
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.pdb
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\calificacion_esudiante.genruntimeconfig.cache
+C:\Users\rolan\Documents\Programacion_Estructurada\Semana1\Clase2\calificacion_estudiante\obj\Debug\net8.0\ref\calificacion_esudiante.dll
